@@ -1,9 +1,8 @@
-# Financial-Fraud
-# Random Forest Model on Fraud Detection
+# Fraud Detection with Random Forest Model
 
 ## Project Overview
 
-This project delves into transaction data. It was particularly challenging due to the amount of rows in the dataset (6362620)
+This project focuses on building a Random Forest Model for fraud detection in transaction data. The dataset used is extensive, containing 6,362,620 rows, posing a considerable challenge in terms of data volume.
 
 
 ## Dataset Overview
